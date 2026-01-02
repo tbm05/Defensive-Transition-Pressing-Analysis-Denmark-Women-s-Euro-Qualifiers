@@ -1,1 +1,1 @@
-Project files and analysis report.
+Project files and analysis report. See the document under Releases.
